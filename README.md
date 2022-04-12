@@ -1,6 +1,5 @@
-Hi, I’m Caroline (Carly) Hall, and this is my Github page. 
-I'm interested in computer science languages and data analyst techniques. 
-I'm currently working on improving my Python skills, specifically web scraping with Python.
+Hi, I’m Caroline (Carly) Hall, and this is my Github page. I'm currently a fourth year student at the University of Miami studying Math, Statistics, Computer Science, and Psychology. I'm interested in problem solving with data analysis techniques. 
+I'm currently working on improving my Python skills, specifically website scraping with Python.
 I am looking to collaborate with companies to help them reach their sales goals through data mining.
 You can reach me at plmkji@gmail.com, or call/text me at (626) 993-8823
 
